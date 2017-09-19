@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Kitchen Light",
+    "status": "Off",
+    "level": 0
+  },
+  {
+    "id": 2,
+    "name": "Fish Tank Light",
+    "status": "On",
+    "level": 100
+  }
+]
